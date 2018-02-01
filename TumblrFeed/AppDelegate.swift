@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  TumblrFeed
 //
-//  Created by Haimei Yang on 1/31/18.
-//  Copyright © 2018 Haimei Yang. All rights reserved.
+//  Created by Henry Guerra on 1/31/18.
+//  Copyright © 2018 Henry Guerra. All rights reserved.
 //
 
 import UIKit
